@@ -75,13 +75,16 @@ Few Snapshots of Project
 
 <img width="1118" height="630" alt="Screenshot 2025-07-19 120048" src="https://github.com/user-attachments/assets/28c46756-8841-443d-884b-11279e129b44" />
 
-<img width="1118" height="630" alt="Screenshot 2025-07-19 120048" src="https://github.com/user-attachments/assets/acfde459-d956-4f53-a7d1-e5a54357ac8f" />
+
+<img width="1322" height="746" alt="Screenshot 2025-07-19 121101" src="https://github.com/user-attachments/assets/3382ad10-75c1-4529-b570-3ca3d0ce34ae" />
 
 
+<img width="1316" height="752" alt="Screenshot 2025-07-19 121649" src="https://github.com/user-attachments/assets/c8f9f577-754a-47e1-b793-4c47f00d6ab8" />
 
 
+<img width="1314" height="743" alt="Screenshot 2025-07-19 130125" src="https://github.com/user-attachments/assets/527a8955-1b21-4631-9222-7df50bfe671e" />
 
-
+---
 
 ## 🎥 Project Demo
 
