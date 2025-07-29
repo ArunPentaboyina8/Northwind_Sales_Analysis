@@ -71,6 +71,18 @@ All visuals are fully interactive, allowing filtering by country, customer, cate
 
 ---
 
+Few Snapshots of Project
+
+<img width="1118" height="630" alt="Screenshot 2025-07-19 120048" src="https://github.com/user-attachments/assets/28c46756-8841-443d-884b-11279e129b44" />
+
+<img width="1118" height="630" alt="Screenshot 2025-07-19 120048" src="https://github.com/user-attachments/assets/acfde459-d956-4f53-a7d1-e5a54357ac8f" />
+
+
+
+
+
+
+
 ## 🎥 Project Demo
 
 A full video presentation has been included, explaining:
