@@ -1,92 +1,95 @@
 # Northwind_Sales_Analysis
 This project provides a detailed sales analysis using the Northwind Traders dataset. It uncovers insights into sales, customer behavior, product trends, suppliers, and employee performance. Built in Power BI, it features interactive dashboards to support data-driven decisions.
 
-📊 Northwind Sales Analysis Dashboard
-📝 Project Overview
-This project presents a comprehensive Sales Analysis Dashboard for the fictional wholesale company Northwind Traders, using its popular sample dataset. The goal is to extract actionable insights across sales, customers, products, employees, suppliers, and shipping performance to support better business decisions.
+---
 
-The analysis was conducted using Excel for EDA, and Power BI for building interactive dashboards. A complete breakdown following the MECE framework is provided to ensure structured, non-overlapping insights. The project also includes a video presentation, PowerPoint slides, and documentation to present findings effectively.
+# 📊 Northwind Sales Analysis Dashboard
 
-🎯 Objectives
-Identify key sales patterns and customer trends.
+## 📝 Project Overview
 
-Analyze product performance and pricing variations.
+This project presents a comprehensive **Sales Analysis Dashboard** for the fictional wholesale company **Northwind Traders**, using its popular sample dataset. The goal is to extract actionable insights across sales, customers, products, employees, suppliers, and shipping performance to support better business decisions.
 
-Evaluate shipping durations and delivery efficiency.
+The analysis was conducted using **Excel for EDA**, and **Power BI** for building interactive dashboards. A complete breakdown following the **MECE framework** is provided to ensure structured, non-overlapping insights. The project also includes a **video presentation**, **PowerPoint slides**, and documentation to present findings effectively.
 
-Understand employee structure and performance.
+---
 
-Map supplier distribution and product supply trends.
+## 🎯 Objectives
 
-Enable dynamic filtering and interactive exploration of KPIs.
+* Identify key sales patterns and customer trends.
+* Analyze product performance and pricing variations.
+* Evaluate shipping durations and delivery efficiency.
+* Understand employee structure and performance.
+* Map supplier distribution and product supply trends.
+* Enable dynamic filtering and interactive exploration of KPIs.
 
-📦 Dataset
-The analysis is based on the Northwind Traders dataset and covers:
+---
 
-Customers and Orders
+## 📦 Dataset
 
-Products and Categories
+The analysis is based on the **Northwind Traders** dataset and covers:
 
-Employees and Territories
+* Customers and Orders
+* Products and Categories
+* Employees and Territories
+* Suppliers and Shippers
 
-Suppliers and Shippers
+---
 
-📁 Project Files
-bash
-Copy
-Edit
+## 📁 Project Files
+
+```
 ├── PowerBI_Report.pbix             # Main Power BI Dashboard
 ├── EDA_Excel_Analysis.xlsx         # Exploratory Data Analysis in Excel
 ├── MECE_Framework_Breakdown.png    # Structured problem breakdown image
 ├── Final_Presentation.pptx         # Slides for project explanation
 ├── Project_Report.docx             # Word document with detailed explanation
 ├── Final_Video_Presentation.mp4    # Recorded walkthrough of the project
-📊 Key Visual Insights
-Sales trends over time (line/area charts)
+```
 
-Customer distribution by country and title (map/bar charts)
+---
 
-Product sales and pricing (bar, box, tree maps)
+## 📊 Key Visual Insights
 
-Shipping duration and delivery analysis (box plot, bar chart)
-
-Employee role count and hierarchy (stacked bars, org chart)
-
-Supplier distribution and pricing patterns (map, pie, histogram)
+* Sales trends over time (line/area charts)
+* Customer distribution by country and title (map/bar charts)
+* Product sales and pricing (bar, box, tree maps)
+* Shipping duration and delivery analysis (box plot, bar chart)
+* Employee role count and hierarchy (stacked bars, org chart)
+* Supplier distribution and pricing patterns (map, pie, histogram)
 
 All visuals are fully interactive, allowing filtering by country, customer, category, employee, or year.
 
-⚙️ Tools Used
-Power BI Desktop
+---
 
-Excel (for initial data exploration)
+## ⚙️ Tools Used
 
-Power Query & DAX
+* **Power BI Desktop**
+* **Excel** (for initial data exploration)
+* **Power Query & DAX**
+* **MS Word, PowerPoint** (for reporting and documentation)
+* **Video Recording** (project demo walkthrough)
 
-MS Word, PowerPoint (for reporting and documentation)
+---
 
-Video Recording (project demo walkthrough)
+## 🎥 Project Demo
 
-🎥 Project Demo
 A full video presentation has been included, explaining:
 
-Project flow
+* Project flow
+* Data source
+* Insights derived
+* Dashboard walkthrough
+* Business value
 
-Data source
+---
 
-Insights derived
+## 💡 What I Learned
 
-Dashboard walkthrough
+* Built and optimized data models using relationships.
+* Used the MECE approach to avoid overlap and ensure complete analysis.
+* Developed storytelling skills through dashboard design and presentation.
+* Learned to present insights using a combination of tools effectively.
 
-Business value
-
-💡 What I Learned
-Built and optimized data models using relationships.
-
-Used the MECE approach to avoid overlap and ensure complete analysis.
-
-Developed storytelling skills through dashboard design and presentation.
-
-Learned to present insights using a combination of tools effectively.
+---
 
 
